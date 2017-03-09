@@ -1,2 +1,1 @@
-# Serie
-Tarea1
+# series
